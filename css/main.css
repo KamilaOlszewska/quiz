@@ -416,6 +416,10 @@ main .first-question__box .first-question__answers .first-question__answer6 {
   border-radius: 5px;
 }
 
+input {
+  display: none;
+}
+
 * {
   font-family: Arial;
   margin-top: 0;
