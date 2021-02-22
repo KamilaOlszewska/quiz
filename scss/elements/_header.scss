@@ -1,0 +1,15 @@
+.page__header{
+  padding-top: 0;
+  width: 100%;
+  background-color: $color-background;
+  color: $color-primary;
+  margin-top: 0;
+  font-size: 2rem;
+  display: grid;
+}
+  .page__header-text{
+    text-align: center;
+    background-color: $color-background;
+    color: $color-primary;
+
+  }

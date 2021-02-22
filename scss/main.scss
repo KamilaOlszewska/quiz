@@ -1,0 +1,11 @@
+@import "generic/normalize";
+@import "variables/colors";
+@import "elements/header";
+@import "elements/questions";
+*{
+  font-family: Arial;
+  margin-top: 0;
+  padding-top: 0;
+  box-sizing: border-box;
+  background-color: $color-primary;
+}
